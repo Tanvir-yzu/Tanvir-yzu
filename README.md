@@ -61,10 +61,10 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 [![Linkedin Badge](https://img.shields.io/badge/-Tanvir-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tanvir-islam-070a16231/)](https://www.linkedin.com/in/tanvir-islam-070a16231/)
 [![Twitter Badge](https://img.shields.io/badge/-Tanvir-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/2020tanvir1971/)](https://twitter.com/2020tanvir1971/)
 [![Instagram Badge](https://img.shields.io/badge/Tanvir-blue?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tanvirislam1971/)](https://www.instagram.com/tanvirislam1971/)
-[![Facebook Badge](https://img.shields.io/badge/Tanvir?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Progeammer007/)](https://www.facebook.com/Progeammer007/)
-[![Medium Badge](https://img.shields.io/badge/Tanvir?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@2020tanvir1971/)](https://medium.com/@2020tanvir1971/)
-[![Stackoverflow Badge](https://img.shields.io/badge/Tanvir?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/18600445/tanvir/)](https://stackoverflow.com/users/18600445/tanvir/)
-[![Gmail Badge](https://img.shields.io/badge/Tanvir?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2020tanvir1971@gmail.com)](mailto:2020tanvir1971@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Tanvir-blue?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/Progeammer007/)](https://www.facebook.com/Progeammer007/)
+[![Medium Badge](https://img.shields.io/badge/Tanvir-blue?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@2020tanvir1971/)](https://medium.com/@2020tanvir1971/)
+[![Stackoverflow Badge](https://img.shields.io/badge/Tanvir-blue?style=flat-square&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/18600445/tanvir/)](https://stackoverflow.com/users/18600445/tanvir/)
+[![Gmail Badge](https://img.shields.io/badge/Tanvir-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:2020tanvir1971@gmail.com)](mailto:2020tanvir1971@gmail.com)
 
 ## ⚒ Quick Stats About Me
 
