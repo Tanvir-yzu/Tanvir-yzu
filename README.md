@@ -16,7 +16,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 
 <a href="https://www.github.com/Tanvir-yzu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tanvir-yzu?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a><a href="https://www.x.com/@2020tanvir1971" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/@2020tanvir1971?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a"
+src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=0f172a"
 /></a>
 ## ⚡ Technologies
 
