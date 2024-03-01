@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+👋;I'm++Tanvir+Islam;I'm++a+Software++Engineer+)](https://git.io/typing-svg)
 ====================================================================================================================================
 
-Software Engineer
+## ⚡ About Me
 -----------------
 
 My journey in software engineering began with a solid foundation in computer science, where I cultivated a deep understanding of algorithms, data structures, and software architecture. This knowledge has been instrumental in my ability to design robust and efficient software systems that meet the diverse needs of users and stakeholders.
@@ -9,7 +9,7 @@ My journey in software engineering began with a solid foundation in computer sci
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [My-Website](http://tanvir-islam-portfolio.netlify.app/)
 * ✉️  You can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
-* 🧠  I'm learning Next.js
+* 🧠  I'm learning Python
 
 <a href="https://www.github.com/Tanvir-yzu" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Tanvir-yzu?logo=github&style=for-the-badge&color=14b8a6&labelColor=0f172a" /></a><a href="https://www.x.com/@2020tanvir1971" target="_blank" rel="noreferrer"><img
