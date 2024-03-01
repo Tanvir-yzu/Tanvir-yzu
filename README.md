@@ -6,6 +6,9 @@
 
 "Hello, I’m Tanvir Islam .My journey in software engineering began with a solid foundation in computer science, where I cultivated a deep understanding of algorithms, data structures, and software architecture. This knowledge has been instrumental in my ability to design robust and efficient software systems that meet the diverse needs of users and stakeholders."
 
+Skills-
+Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · MongoDB  · Object-Oriented Programming (OOP) · ReactJs · Node.js · C (Programming Language)  · Visual Studio  · JavaScript · Python · Java · c++    
+
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [My-Website](http://tanvir-islam-portfolio.netlify.app/)
 * ✉️  You can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
