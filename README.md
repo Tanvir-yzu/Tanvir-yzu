@@ -63,15 +63,8 @@ src="https://img.shields.io/twitter/follow/@2020tanvir1971?logo=twitter&style=fo
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-stats.vercel.app/api?username=Tanvir-yzu&show_icons=true&hide=&count_private=true&title_color=10b981&text_color=64748b&icon_color=14b8a6&bg_color=0f172a&hide_border=true&show_icons=true" alt="Tanvir-yzu's GitHub stats" /></a>
-
 <a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-yzu&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=Tanvir-yzu&bg_color=0f172a&color=64748b&line=14b8a6&point=64748b&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/Tanvir-yzu" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-yzu&langs_count=10&title_color=10b981&text_color=64748b&icon_color=14b8a6&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
