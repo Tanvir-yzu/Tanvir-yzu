@@ -65,6 +65,19 @@ src="https://img.shields.io/twitter/follow/@2020tanvir1971?logo=twitter&style=fo
 
 <a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-yzu&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
+## ⚒ This Week I Spent My Time On
+<!--START_SECTION:waka-->
+
+```txt
+JavaScript   8 hrs 38 mins   ███████████████████████▒░   59.95 %
+JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+React        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
+CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+```
+
+<!--END_SECTION:waka-->
+
 
 ### Support Me
 
