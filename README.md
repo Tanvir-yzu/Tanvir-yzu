@@ -26,12 +26,12 @@ src="https://img.shields.io/twitter/follow/@2020tanvir1971?logo=twitter&style=fo
 ![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
-![C-Sharp](https://img.shields.io/badge/-CSharp-00599C?style=flat-square&logo=c-sharp)
-![Asp.net](https://img.shields.io/badge/-ASP.NET-00599C?style=flat-square&logo=asp.net)
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ## ⚒ Technologies Tools
 
 ![Vscode](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=vscode)
@@ -48,6 +48,10 @@ src="https://img.shields.io/twitter/follow/@2020tanvir1971?logo=twitter&style=fo
 ![Cpanel](https://img.shields.io/badge/-Cpanel-FCA121?style=flat-square&logo=cpanel)
 ![Domain](https://img.shields.io/badge/-Domain-FCA121?style=flat-square&logo=domain)
 ![Hosting](https://img.shields.io/badge/-Hosting-FCA121?style=flat-square&logo=hosting)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 ### Socials
 
