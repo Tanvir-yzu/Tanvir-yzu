@@ -1,4 +1,4 @@
-![GIF](https://github.com/Tanvir-yzu/Tanvir-yzu/blob/main/TANVIR%20ISLAM.png)
+![GIF](https://github.com/Tanvir-yzu/Tanvir-yzu/blob/main/Tanvir%20islam%20(2).png)
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Tanvir+Islam+.+.+.;I'm++a+Software++Engineer+&center=true&size=30">
