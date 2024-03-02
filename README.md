@@ -94,7 +94,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
-<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/face_recognition_project-main" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=face_recognition_project-main&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/mdsajalcse/Railsheba" title="RailSheba"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=mdsajalcse&repo=RailSheba&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/face_recognition_project-main" title="Software"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=face_recognition_project-main&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tanvir-yzu/jarvis2.0" title="jarvis2.0"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=jarvis2.0&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 
 
