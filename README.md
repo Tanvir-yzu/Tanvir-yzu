@@ -105,7 +105,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 <br/><br/><br/><br/><br/><br/>
 
 
-<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/eye_controlled_mouse" title="eye_controlled_mouse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=eye_controlled_mouseExplore&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tanvir-yzu/sortByTanvir" title="sortByTanvir"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=sortByTanvir=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/eye_controlled_mouse" title="eye_controlled_mouse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=eye_controlled_mouse&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tanvir-yzu/sortByTanvir" title="sortByTanvir"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=sortByTanvir=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
