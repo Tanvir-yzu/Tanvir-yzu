@@ -105,7 +105,7 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 <br/><br/><br/><br/><br/><br/>
 
 
-<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/eye_controlled_mouse" title="eye_controlled_mouse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=eye_controlled_mouse&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tanvir-yzu/Graph-Algorithms-Visualizer-main" title="Graph-Algorithms-Visualizer-main"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=Graph-Algorithms-Visualizer-main&theme=react&border_color=61dafb&border_radius=10"></a>
+<div width="100%" align="center"><a align="left" href="https://github.com/Tanvir-yzu/eye_controlled_mouse" title="eye_controlled_mouse"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=eye_controlled_mouse&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/Tanvir-yzu/FastAPI" title="FastAPI"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=Tanvir-yzu&repo=FastAPI&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 <br/><br/><br/><br/><br/><br/>
 
