@@ -119,12 +119,12 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 </h4>
 <br/><br/><br/>
 <h4 align="center">
-  ##  🌱  Support Me
+  🌱  Support Me
 
-<ul style="list-style-type: none; margin: 0;">
+<p style="list-style-type: none; margin: 0;">
 <br/>
 
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.ko-fi.com/tanviryzu"><img src="https://storage.ko-fi.com/cdn/kofi2.png?v=3" width="150"/></a></li>
 
-</ul>
+</p>
 </h4>
