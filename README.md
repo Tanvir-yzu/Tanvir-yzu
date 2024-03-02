@@ -119,7 +119,8 @@ CSS          2 mins          ░░░░░░░░░░░░░░░░░
 </h4>
 <br/><br/><br/>
 <h4 align="center">
-  🌱  Support Me
+<h2 align="center">🌱  Support Me </h2>
+  
 
 <p style="list-style-type: none; margin: 0;">
 <br/>
