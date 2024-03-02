@@ -76,7 +76,12 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
-<a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-yzu&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+
+<h4 align="center">
+   <a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-yzu&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
+</h4>
+
+
 
 ## ⚒ This Week I Spent My Time On
 <!--START_SECTION:waka-->
