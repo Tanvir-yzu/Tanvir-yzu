@@ -1,3 +1,4 @@
+![GIF](https://github.com/Tanvir-yzu/Tanvir-yzu/blob/main/TANVIR%20ISLAM.png)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hello,+There!+👋;I'm++Tanvir+Islam+.+.+.;I'm++a+Software++Engineer+)](https://git.io/typing-svg)
 ====================================================================================================================================
 
