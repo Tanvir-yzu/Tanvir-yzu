@@ -82,7 +82,7 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 </h4>
 
 
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-yzu&theme=transparent)
 
 
 
