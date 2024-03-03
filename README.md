@@ -84,6 +84,8 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tanvir-yzu&theme=transparent)
 
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Tanvir-yzu&theme=algolia" alt="Most Committed Language Badge for Tanvir-yzu on GitHub" />
+
 
 
 ## ⚒ This Week I Spent My Time On
