@@ -81,7 +81,7 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
    <a href="http://www.github.com/Tanvir-yzu"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvir-yzu&stroke=64748b&background=0f172a&ring=10b981&fire=10b981&currStreakNum=64748b&currStreakLabel=10b981&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 </h4>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvie-yzu&theme=whatsapp-dark2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-yzu&theme=whatsapp-dark2&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
 
 
