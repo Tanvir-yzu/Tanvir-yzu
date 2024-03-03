@@ -82,7 +82,7 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 </h4>
 
 
-<img width=325 align="center" src="https://github-readme-stats-Tanvir-yzu.vercel.app/api/top-langs/?username=Tanvir-yzu&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?Tanvir-yzu=Your-Tanvir-yzu&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
