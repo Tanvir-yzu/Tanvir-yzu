@@ -14,8 +14,8 @@ Skills-
 Database Servers · Software Development · Entity Framework (EF) Core · Entity Framework · Teamwork · Application Programming Interfaces (API) · Back-End Web Development · Model-View-Controller (MVC) · Databases · Front-End Development · Full-Stack Development · MySQL · Web Applications · MongoDB  · Object-Oriented Programming (OOP) · ReactJs · Node.js · C (Programming Language)  · Visual Studio  · JavaScript · Python · Java · c++    
 
 * 🌍  I'm based in China
-* 🖥️  See my portfolio at [My-Website](http://tanvir-islam-portfolio.netlify.app/)
-* ✉️  You can contact me at [Tanvir Islam](mailto:2020tanvir1971@gmail.com)
+* 🖥️  See my portfolio at : [My-Website](http://tanvir-islam-portfolio.netlify.app/)
+* ✉️  You can contact me at : [Tanvir Islam](mailto:2020tanvir1971@gmail.com)
 * 🧠  I'm learning Python
 
 <a href="https://www.github.com/Tanvir-yzu" target="_blank" rel="noreferrer"><img
