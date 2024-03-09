@@ -15,7 +15,7 @@ Database Servers · Software Development · Entity Framework (EF) Core · Entity
 
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at [My-Website](http://tanvir-islam-portfolio.netlify.app/)
-* ✉️  You can contact me at [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
+* ✉️  You can contact me at [Tanvir Islam](mailto:2020tanvir1971@gmail.com)
 * 🧠  I'm learning Python
 
 <a href="https://www.github.com/Tanvir-yzu" target="_blank" rel="noreferrer"><img
