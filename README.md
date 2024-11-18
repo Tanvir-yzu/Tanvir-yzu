@@ -79,7 +79,10 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 
 
 <h2 class="center">
-  <a href="https://git.io/streak-stats"><img src="https://git-stats-streak.totto.lt?user=Tanvir-yzu" alt="GitHub Streak" /></a>
+ <a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Tanvir-yzu" alt="GitHub Streak" />
+</a>
+
 </h2>
 
 
