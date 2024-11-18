@@ -77,9 +77,9 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
 
-<h4 align="center">
+
  [![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-yzu&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-</h4>
+
 
 
 
