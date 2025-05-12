@@ -87,7 +87,7 @@ src="https://img.shields.io/twitter/follow/2020tanvir1971?logo=twitter&style=for
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvir-yzu&theme=earth&hide_border=true)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com?user=Tanvir-yzu&theme=earth&hide_border=true" alt="GitHub Streak" />
 
 
 
