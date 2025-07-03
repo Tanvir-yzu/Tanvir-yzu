@@ -113,15 +113,15 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
       <br><span style="font-weight: bold; color: #9F7AEA;">CentOS</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
-      <br><span style="font-weight: bold; color: #ED64A6;">Ubuntu</span>
+      <img alt="almalinux" height=64px src="https://awsmp-logos.s3.amazonaws.com/529d1014-352c-4bed-8b63-6120e4bd3342/f82777d9e87b2b65a152cb7799c9ad6a.png" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">AlmaLinux</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
       <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
       <br><span style="font-weight: bold; color: #48BB78;">PyCharm</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="trae" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <img alt="trae" height=64px src="https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png?auto=format" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
       <br><span style="font-weight: bold; color: #4299E1;">Trae IDE</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
