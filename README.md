@@ -133,6 +133,41 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
       <br><span style="font-weight: bold; color: #4299E1;">Flutter</span>
     </td>
   </tr>
+  <tr>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="tensorflow" height=64px src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" style="filter: drop-shadow(0 0 8px rgba(236,201,75,0.5));">
+      <br><span style="font-weight: bold; color: #ECC94B;">TensorFlow</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="pytorch" height=64px src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">PyTorch</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="scikit" height=64px src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Scikit-learn</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="pandas" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" style="filter: drop-shadow(0 0 8px rgba(159,122,234,0.5));">
+      <br><span style="font-weight: bold; color: #9F7AEA;">Pandas</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="numpy" height=64px src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
+      <br><span style="font-weight: bold; color: #48BB78;">NumPy</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="selenium" height=64px src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" style="filter: drop-shadow(0 0 8px rgba(236,201,75,0.5));">
+      <br><span style="font-weight: bold; color: #ECC94B;">Selenium</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="redis" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Redis</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="graphql" height=64px src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" style="filter: drop-shadow(0 0 8px rgba(159,122,234,0.5));">
+      <br><span style="font-weight: bold; color: #9F7AEA;">GraphQL</span>
+    </td>
+  </tr>
+  
 </table>
 
 ### Frontend
