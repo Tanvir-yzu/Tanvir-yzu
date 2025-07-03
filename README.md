@@ -117,8 +117,8 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
       <br><span style="font-weight: bold; color: #ED64A6;">AlmaLinux</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
-      <br><span style="font-weight: bold; color: #48BB78;">PyCharm</span>
+      <img alt="vscode" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">VS Code</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
       <img alt="trae" height=64px src="https://ph-files.imgix.net/c4d77076-9008-48e5-b10c-8a03297e3781.png?auto=format" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
