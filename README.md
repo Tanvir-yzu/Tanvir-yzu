@@ -28,6 +28,113 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
 * 🧠  I'm currently learning Python
 ## ⚡ Technologies
 
+<h2 align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 20px; font-size: 36px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">My Tech Stack</h2>
+
+<table style="background: rgba(255,255,255,0.05); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31,38,135,0.37); backdrop-filter: blur(4px); border: 1px solid rgba(255,255,255,0.18); margin: 20px auto;">
+  <tr>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="python" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Python</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="django" height=64px src="https://cdn.worldvectorlogo.com/logos/django.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
+      <br><span style="font-weight: bold; color: #48BB78;">Django</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="javascript" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="filter: drop-shadow(0 0 8px rgba(236,201,75,0.5));">
+      <br><span style="font-weight: bold; color: #ECC94B;">Javascript</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="vue" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
+      <br><span style="font-weight: bold; color: #48BB78;">Vue</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="react" height=64px src="https://user-images.githubusercontent.com/39632170/109031546-077fa800-76ef-11eb-90ee-f49c93b996b7.png" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Java</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="tailwind" height=64px src="https://opencv.org/wp-content/uploads/2021/01/OpenCV-logo.png" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">OpenCV</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="filter: drop-shadow(0 0 8px rgba(159,122,234,0.5));">
+      <br><span style="font-weight: bold; color: #9F7AEA;">Bootstrap</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">jQuery</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="docker" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Docker</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="jenkins" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Jenkins</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="prometheus" height=64px src="https://cdn.worldvectorlogo.com/logos/prometheus.svg" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Prometheus</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="grafana" height=64px src="https://cdn.worldvectorlogo.com/logos/grafana.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Grafana</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="aws" height=64px src="https://cdn.worldvectorlogo.com/logos/aws-logo.svg" style="filter: drop-shadow(0 0 8px rgba(236,201,75,0.5));">
+      <br><span style="font-weight: bold; color: #ECC94B;">AWS</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="firebase" height=64px src="https://cdn.worldvectorlogo.com/logos/firebase-1.svg" style="filter: drop-shadow(0 0 8px rgba(236,201,75,0.5));">
+      <br><span style="font-weight: bold; color: #ECC94B;">Firebase</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="postgresql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">PostgreSQL</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="mysql" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">MySQL</span>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="bash" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
+      <br><span style="font-weight: bold; color: #48BB78;">BASH</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="nginx" height=64px src="https://cdn.worldvectorlogo.com/logos/nginx-1.svg" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Nginx</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="centos" height=64px src="https://cdn.worldvectorlogo.com/logos/centos-1.svg" style="filter: drop-shadow(0 0 8px rgba(159,122,234,0.5));">
+      <br><span style="font-weight: bold; color: #9F7AEA;">CentOS</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="ubuntu" height=64px src="https://user-images.githubusercontent.com/39632170/109294252-25681c80-7857-11eb-9ec4-4fbdad9fadfc.png" style="filter: drop-shadow(0 0 8px rgba(237,100,166,0.5));">
+      <br><span style="font-weight: bold; color: #ED64A6;">Ubuntu</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="pycharm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" style="filter: drop-shadow(0 0 8px rgba(72,187,120,0.5));">
+      <br><span style="font-weight: bold; color: #48BB78;">PyCharm</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">WebStorm</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Dart</span>
+    </td>
+    <td align="center" style="padding: 15px; transition: all 0.3s ease;">
+      <img alt="flutter" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Flutter</span>
+    </td>
+  </tr>
+</table>
+
 ### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
