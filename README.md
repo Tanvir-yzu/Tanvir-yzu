@@ -57,12 +57,12 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
       <br><span style="font-weight: bold; color: #4299E1;">OpenCV</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="bootstrap" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" style="filter: drop-shadow(0 0 8px rgba(159,122,234,0.5));">
-      <br><span style="font-weight: bold; color: #9F7AEA;">Bootstrap</span>
+      <img alt="tailwind" height=64px src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="filter: drop-shadow(0 0 8px rgba(56,178,172,0.5));">
+      <br><span style="font-weight: bold; color: #38B2AC;">Tailwind</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="jquery" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
-      <br><span style="font-weight: bold; color: #4299E1;">jQuery</span>
+      <img alt="alpine" height=64px src="https://alpinejs.dev/alpine_long.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Alpine.js</span>
     </td>
   </tr>
   <tr>
@@ -121,8 +121,8 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
       <br><span style="font-weight: bold; color: #48BB78;">PyCharm</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
-      <img alt="webstorm" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
-      <br><span style="font-weight: bold; color: #4299E1;">WebStorm</span>
+      <img alt="trae" height=64px src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
+      <br><span style="font-weight: bold; color: #4299E1;">Trae IDE</span>
     </td>
     <td align="center" style="padding: 15px; transition: all 0.3s ease;">
       <img alt="dart" height=64px src="https://cdn.worldvectorlogo.com/logos/dart.svg" style="filter: drop-shadow(0 0 8px rgba(66,153,225,0.5));">
