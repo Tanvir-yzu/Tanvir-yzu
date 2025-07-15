@@ -226,6 +226,7 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
 
 <img src="https://streak-stats.demolab.com?user=Tanvir-yzu&theme=earth&hide_border=true" alt="GitHub Streak" />
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-yzu&theme=github-dark&hide_border=true" alt="Tanvir's Activity Graph" />
 
 
 
