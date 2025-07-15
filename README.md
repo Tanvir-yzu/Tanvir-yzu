@@ -238,7 +238,7 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
 <!--START_SECTION:waka-->
 
 ```txt
-Python   8 hrs 38 mins   ███████████████████████▒░   59.95 %
+Python   8 hrs 38 mins       ███████████████████████▒░   59.95 %
 JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
 React        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
