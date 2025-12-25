@@ -9,12 +9,13 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=00c7b7&size=25&center=true&vCenter=true&width=900&height=60&lines=Django+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Science+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG">
   </a>
 </p>
+
 ## ⚡ About Me
 -----------------
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at: [My Website](http://tanvir-islam-portfolio.netlify.app/)
 * ✉️  You can contact me at: [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
-* 🧠  I'm currently learning Python
+* 🧠  I'm currently learning Machine Learning
 * 🌐  Check out my GitLab: [Tanvir-YZU](https://gitlab.com/Tanvir-YZU)
 
 
