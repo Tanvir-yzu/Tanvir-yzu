@@ -11,10 +11,10 @@
 </p>
 
 ## ⚡ About Me
-* 🌍  I'm based in China
+* 🌍  I'm based in **China**
 * 🖥️  See my portfolio at: [My Website](http://tanvir-islam-portfolio.netlify.app/)
 * ✉️  You can contact me at: [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
-* 🧠  I'm currently learning `Machine Learning` & `Deep Learning`
+* 🧠  I'm currently learning **`Machine Learning` & `Deep Learning`**
 * 🌐  Check out my GitLab: [Tanvir-YZU](https://gitlab.com/Tanvir-YZU)
 
 
