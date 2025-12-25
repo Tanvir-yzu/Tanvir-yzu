@@ -32,11 +32,6 @@ Hello, I'm **Tanvir Islam**. My journey in software engineering began with a sol
 
 **Development Tools:** Visual Studio • Git • GitHub • GitLab • Firebase 
 
-### 📍 Personal Info
-* 🌍  I'm based in China
-* 🖥️  See my portfolio at: [My Website](http://tanvir-islam-portfolio.netlify.app/)
-* ✉️  You can contact me at: [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
-* 🧠  I'm currently learning Python
 ## ⚡ Technologies
 
 <h2 align="center" style="background: linear-gradient(45deg, #FF6B6B, #4ECDC4); -webkit-background-clip: text; -webkit-text-fill-color: transparent; padding: 20px; font-size: 36px; text-shadow: 2px 2px 4px rgba(0,0,0,0.1);">My Tech Stack</h2>
