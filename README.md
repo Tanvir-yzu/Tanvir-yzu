@@ -4,7 +4,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm++Tanvir+Islam+.+.+.;I'm++a+Software++Engineer+&center=true&size=30">
   </a>
 </h1>
-
+<p align="center">
+  <a href="#">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=00c7b7&size=25&center=true&vCenter=true&width=900&height=60&lines=Django+Developer;Machine+Learning+%26+Deep+Learning+Enthusiast;Computer+Science+Engineering+Student;Creative+Problem+Solver" alt="Typing SVG">
+  </a>
+</p>
 ## ⚡ About Me
 -----------------
 * 🌍  I'm based in China
