@@ -11,7 +11,6 @@
 </p>
 
 ## ⚡ About Me
------------------
 * 🌍  I'm based in China
 * 🖥️  See my portfolio at: [My Website](http://tanvir-islam-portfolio.netlify.app/)
 * ✉️  You can contact me at: [2020tanvir1971@gmail.com](mailto:2020tanvir1971@gmail.com)
