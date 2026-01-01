@@ -220,7 +220,7 @@
 
 ## ⚒ Quick Stats About Me
 
-| Github Stats | Top Languages |
+<!-- | Github Stats | Top Languages |
 | --- | --- |
 | ![Sy's github stats](https://github-readme-stats.vercel.app/api?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Sy's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvir-yzu&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
@@ -235,24 +235,14 @@
 
 <img src="https://github-contributor-stats.vercel.app/api?username=Tanvir-yzu&limit=5&theme=dark&combine_all_yearly_contributions=true%22" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-yzu&theme=github-dark&hide_border=true" alt="Tanvir's Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanvir-yzu&theme=github-dark&hide_border=true" alt="Tanvir's Activity Graph" /> -->
 
 
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=Tanvir-yzu&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
 
 
-
-
-
-## ⚒ This Week I Spent My Time On
-<!--START_SECTION:waka-->
-
-```txt
-Python   8 hrs 38 mins       ███████████████████████▒░   59.95 %
-JSON         41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
-React        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
-CSS          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
-```
 
 <!--END_SECTION:waka-->
 
