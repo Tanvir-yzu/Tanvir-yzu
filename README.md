@@ -33,7 +33,7 @@
 
 **Development Tools:** Visual Studio • Git • GitHub • GitLab • Firebase
 
-<video src="./tanvir.mp4" controls></video>
+<video src="./tanvir.mp4" controls autoplay></video>
 
 ## ⚡ Technologies
 
