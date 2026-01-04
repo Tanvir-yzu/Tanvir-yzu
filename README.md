@@ -31,7 +31,9 @@
 
 **Programming Languages:** Python • Java • C++ • C • JavaScripts
 
-**Development Tools:** Visual Studio • Git • GitHub • GitLab • Firebase 
+**Development Tools:** Visual Studio • Git • GitHub • GitLab • Firebase
+
+<video src="./tanvir.mp4" controls></video>
 
 ## ⚡ Technologies
 
